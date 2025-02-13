@@ -1,5 +1,5 @@
 <h1 align="left">
-  <b>Deploy K8s PostgreSQL/b>
+  <b>Deploy K8s PostgreSQL</b>
 </h1>
 
-![](https://github.com/GinoLopez12/postgres-k8s-deploy/tree/master/img)
+![](https://github.com/GinoLopez12/postgres-k8s-deploy/tree/master/img/diagram.png)
